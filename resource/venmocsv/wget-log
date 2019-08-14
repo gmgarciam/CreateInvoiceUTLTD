@@ -1,0 +1,6 @@
+--2019-08-13 18:41:36--  https://api.venmo.com/v1/transaction-history?start_date=2019-07-01
+Resolving api.venmo.com (api.venmo.com)... 99.84.194.98, 99.84.194.38, 99.84.194.12, ...
+Connecting to api.venmo.com (api.venmo.com)|99.84.194.98|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.
